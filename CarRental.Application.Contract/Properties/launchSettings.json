@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "CarRental.Application.Contract": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:54533;http://localhost:54536"
+    }
+  }
+}
